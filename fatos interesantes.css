@@ -1,4 +1,16 @@
-body{
-    background-color: rgb(255, 162, 0);
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #00ff00;
+    color: #000000;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
 
+nav {
+    display: flex;
+    justify-content: center;
+    background-color: #008507;
 }
